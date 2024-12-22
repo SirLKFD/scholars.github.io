@@ -1,7 +1,7 @@
 import "../styles/button.scss"; 
 
 
-function Button({ children }) {
+function ButtonTutorialEvent({ children }) {
   return (
     <div className="Button">
         <div className="LabelText">

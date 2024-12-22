@@ -1,12 +1,28 @@
-.welcome-message{
-    font-size: 20px;
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: blue;
+.counter-container {
+    text-align: center;
+    font-family: "Electronic Arts Text", sans-serif;
+
 }
 
-.login-prompt{
-    font-size: 20px;
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: red;
+.count-display{
+    font-size: 5em;
+    margin-top: 0;
+    margin-bottom: 50px;
 }
 
+.counter-button{
+    width: 150px;
+    height: 50px;
+    font-size:1.5em
+    font-weight: bold;
+    margin: 0px 5px;
+    background-color: blueviolet;
+    color:white;
+    border:none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.counter-button:hover{
+    background-color: darkviolet;
+}
