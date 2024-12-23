@@ -1,4 +1,4 @@
-body {
+.body1_A {
   font-family: "Electronic Arts Text", sans-serif;
 }
 
@@ -8,7 +8,7 @@ body {
   align-items: center;
 }
 
-h1 {
+.h1_A {
   margin: 10px;
   font-size: 3rem;
 }
@@ -30,13 +30,13 @@ h1 {
   }
 }
 
-label {
+.label_A {
   font-size: 1.5rem;
   font-weight: bold;
   margin-bottom: 1px;
 }
 
-input[type="color"] {
+.input_A[type="color"] {
   width: 75px;
   height: 50px;
   padding: 5px;
