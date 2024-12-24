@@ -1,4 +1,4 @@
-import "../styles/button.scss"; 
+import "../../styles/button.scss";
 
 
 function ButtonTutorialEvent({ children, onDoubleClick }) {

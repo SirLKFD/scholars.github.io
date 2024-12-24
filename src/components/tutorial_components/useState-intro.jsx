@@ -1,3 +1,6 @@
+// useState is a React Hook that allows you to have state variables in functional components.
+// aka getter and setter in class components
+
 import React, {useState} from 'react';
 
 function UseStateIntro() {
