@@ -18,6 +18,7 @@ import WidthHeightUseEffect from "./components/tutorial_components/browser-width
 import DigitalClockApp from "./components/tutorial_components/DigitalClockApp";
 import ComponentA from "./components/tutorial_components/useContext-intro/ComponentA.jsx";
 import UseRefIntro from "./components/tutorial_components/useRef-intro.jsx";
+import Stopwatch from "./components/tutorial_components/Stopwatch.jsx";
 
 //import Background from "../src/components/background.jsx";
 
@@ -26,7 +27,6 @@ function App() {
 
     return (
     <div>
-        <UseRefIntro/>
 
 
     </div>
