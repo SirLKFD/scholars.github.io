@@ -17,6 +17,7 @@ import UseEffectIntro from "./components/tutorial_components/useEffect-intro";
 import WidthHeightUseEffect from "./components/tutorial_components/browser-width_height_useEffect.jsx";
 import DigitalClockApp from "./components/tutorial_components/DigitalClockApp";
 import ComponentA from "./components/tutorial_components/useContext-intro/ComponentA.jsx";
+import UseRefIntro from "./components/tutorial_components/useRef-intro.jsx";
 
 //import Background from "../src/components/background.jsx";
 
@@ -25,7 +26,7 @@ function App() {
 
     return (
     <div>
-        <ComponentA/>
+        <UseRefIntro/>
 
 
     </div>
