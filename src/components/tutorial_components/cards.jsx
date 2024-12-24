@@ -1,4 +1,4 @@
-import "../styles/cards.scss";
+import "../../styles/cards.scss";
 
 function Card(){
 

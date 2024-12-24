@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import '../styles/colorPicker.scss';
+import "../../styles/colorPicker.scss";
 
 function ColorPicker(){
 
