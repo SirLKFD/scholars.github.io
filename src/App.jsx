@@ -16,6 +16,7 @@ import ToDoListApp from "./components/tutorial_components/ToDoListApp";
 import UseEffectIntro from "./components/tutorial_components/useEffect-intro";
 import WidthHeightUseEffect from "./components/tutorial_components/browser-width_height_useEffect.jsx";
 import DigitalClockApp from "./components/tutorial_components/DigitalClockApp";
+import ComponentA from "./components/tutorial_components/useContext-intro/ComponentA.jsx";
 
 //import Background from "../src/components/background.jsx";
 
@@ -24,24 +25,7 @@ function App() {
 
     return (
     <div>
-        <Header />
-        <Card />
-        <Footer />
-        <ButtonTutorialEvent />
-        <ProfilePicture />
-        <UseStateIntro />
-        <Counter />
-        <OnChangeIntro />
-        <ColorPicker />
-        <UpdaterIntro />
-        <UpdateObjects_stateIntro />
-        <UpdateArrays_stateIntro />
-        <UpdateArrayObjects_stateIntro />
-        <ToDoListApp />
-        <UseEffectIntro />
-        <WidthHeightUseEffect />
-        <DigitalClockApp/>
-
+        <ComponentA/>
 
 
     </div>
