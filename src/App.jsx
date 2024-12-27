@@ -87,3 +87,16 @@ export default App;
 // you can use the useParams hook from 'react-router-dom'
 // Example:
 // const { id } = useParams();
+
+// useNavigate hook
+// The useNavigate hook is used to navigate programmatically in React Router v6
+// It is a hook that returns the navigate function
+// Example:
+// const navigate = useNavigate();
+// navigate('/create'); // Navigate to the create route
+// navigate('/blogs/1'); // Navigate to the blog with id 1
+// navigate('/'); // Navigate to the home route
+// navigate('../'); // Navigate to the parent route
+// navigate(-1); Go back one step in the history
+// navigate(1); Go forward one step in the history
+
